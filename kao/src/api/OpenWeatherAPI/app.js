@@ -149,7 +149,7 @@ export default class app extends React.Component{
         }
     
 
-        axios.get('http://api.openweathermap.org/data/2.5/weather?units=metric&q=Seoul&appid=3429d0bae34e94e664e52d8c910f7341') // 3429d0bae34e94e664e52d8c910f7341
+        axios.get('http://api.openweathermap.org/data/2.5/weather?units=metric&q=Seoul&appid={YOUR-API}')
         .then(res => {
             console.log(res);
 
