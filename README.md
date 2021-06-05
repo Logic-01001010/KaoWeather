@@ -26,4 +26,5 @@
 ![이슬비](https://user-images.githubusercontent.com/55939719/120887575-a3924700-c62e-11eb-81fb-eab98594febe.gif)
 <br>
 
-
+<hr>
+서울뿐만 아니라 런던, 베이징, 도쿄 등 다양한 도시의 날씨를 실시간으로 확인할 수 있습니다. 
